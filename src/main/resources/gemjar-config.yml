@@ -1,0 +1,47 @@
+environment: prod
+project_name: Demo Project 2
+report_name: UI_Report_Demo_2
+jewel_user: monisha
+jewel_bridge_token: 858857bb-8621-4640-9758-a83d4273fce01698739453034
+enter_point: https://apis.gemecosystem.com/gemEcosystemDashboard/v1/enter-point
+sub_id: test_id
+email_report: n
+email_to: ''
+email_cc: ''
+console_report: n
+jewel_screen_shots: y
+event_firing: y
+tags: '@sampleTag2'
+glue_code: com.qa.StepDefination
+prod:
+  browser_name: edge
+  launch_url: https://www.saucedemo.com/
+  browser_timeout: 100
+beta:
+  browser_name: firefox
+  launch_url: https://www.saucedemo.com/
+  browser_timeout: 100
+
+# environment: beta
+# project_name: GemHeal
+# report_name: report
+# jewel_user: gem-ayushgarg
+# jewel_bridge_token: a713cfb5-3a31-43ed-8886-fac1b3c528fe1702286850482
+# enter_point: https://apis.gemecosystem.com/gemEcosystemDashboard/v1/enter-point
+# email_to: ''
+# email_cc: sample.email@domain.com
+# email_bcc: sample.email@domain.com
+# email_report: Y
+# console_report: n
+# glueCode: com.qa.StepDefination
+# feature: src/main/resources/features/Sample.feature
+# tags: '@sampleTag2'
+# heal: 'y'
+# prod:
+#   browser_name: edge
+#   launch_url: 'http://localhost:3000/'
+#   browser_timeout: 10
+# beta:
+#   browser_name: edge
+#   launch_url: 'https://www.saucedemo.com/'
+#   browser_timeout: 10
