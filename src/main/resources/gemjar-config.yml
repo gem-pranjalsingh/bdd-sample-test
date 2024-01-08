@@ -1,8 +1,8 @@
 environment: prod
-project_name: Demo Project 2
-report_name: UI_Report_Demo_2
-jewel_user: monisha
-jewel_bridge_token: 858857bb-8621-4640-9758-a83d4273fce01698739453034
+project_name: GEMJAR-BDD-SAMPLE
+report_name: gemjar_test_report
+jewel_user: gem-pranjal
+jewel_bridge_token: eb38dc99-f236-434c-8f20-24a4f3c0421e1704729416026
 enter_point: https://apis.gemecosystem.com/gemEcosystemDashboard/v1/enter-point
 sub_id: test_id
 email_report: n
