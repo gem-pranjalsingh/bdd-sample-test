@@ -1,10 +1,10 @@
-target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 /Reports/
 /Report/
 /target/
+*/target/*
 
 ### IntelliJ IDEA ###
 .idea/
