@@ -1,6 +1,6 @@
 Feature: Sample
 
-  @sampleTag
+  @sampleTag2
   Scenario Outline: Successful Login
     Given User is on the login page
     When Enter valid credentials with username "<username>" and password "<password>"
@@ -10,6 +10,7 @@ Feature: Sample
       | username      | password     |
       | standard_user | secret_sauce |
 
+  @sampleTag2
   Scenario Outline: Negative Login
     Given User is on the login page
     When Enter valid credentials with username "<username>" and password "<password>"

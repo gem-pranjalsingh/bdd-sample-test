@@ -4,6 +4,7 @@ target/
 !**/src/test/**/target/
 Reports/
 Report/
+target/
 
 ### IntelliJ IDEA ###
 .idea/

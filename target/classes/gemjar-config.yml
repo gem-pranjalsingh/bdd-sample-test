@@ -11,6 +11,8 @@ email_cc: ''
 console_report: n
 jewel_screen_shots: y
 event_firing: y
+mental: 'sampil'
+Mental: 'src'
 tags: '@sampleTag2'
 glue_code: com.qa.StepDefination
 prod:

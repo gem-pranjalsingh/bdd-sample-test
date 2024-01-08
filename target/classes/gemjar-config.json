@@ -15,7 +15,7 @@
   ],
   "glue_code": "steps",
   "prod": {
-    "browser_name": "CHROME",
+    "browser_name": "chrome",
     "launch_url": "https://jewel.gemecosystem.com/",
     "Login": "https://apis.gemecosystem.com/login",
     "getCompanyAdmins_api": "https://apis.gemecosystem.com/v2/company/admins?name=GEMPERF%20PVT.%20LTD.",
