@@ -5,57 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5f0fe24-3535-4c2e-826c-9f2bfe8659de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/StepDefination/StepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/StepDefination/StepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/Sample.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/Sample.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/Locators/Locator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/Locators/Locator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/StepDefination/Hook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/StepDefination/Hook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/StepDefination/StepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/qa/StepDefination/StepDefinition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/features/Sample.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/Sample.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gemjar-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gemjar-config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gemjar-config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gemjar-config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All TestCases/sample.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/All TestCases/sample.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-3.6.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/sample.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/All TestCases/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ui-bdd-sample-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/ui-bdd-sample-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ui-bdd-sample-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/ui-bdd-sample-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui-bdd-sample-1.0-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

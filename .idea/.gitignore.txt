@@ -2,9 +2,9 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-Reports/
-Report/
-target/
+/Reports/
+/Report/
+/target/
 
 ### IntelliJ IDEA ###
 .idea/
