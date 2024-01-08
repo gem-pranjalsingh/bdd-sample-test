@@ -14,7 +14,7 @@ event_firing: y
 tags: '@sampleTag2'
 glue_code: com.qa.StepDefination
 prod:
-  browser_name: chrome
+  browser_name: edge
   launch_url: https://www.saucedemo.com/
   browser_timeout: 100
 beta:
