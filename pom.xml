@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.qa</groupId>
-    <artifactId>ui-bdd-sample-p-id</artifactId>
+    <artifactId>ui-bdd-sample</artifactId>
     <version>1.1-SNAPSHOT</version>
 
     <properties>
